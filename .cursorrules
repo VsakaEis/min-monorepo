@@ -1,0 +1,11 @@
+# UI Development Restriction
+
+**UI Development:** Use Python Streamlit library exclusively for all dummy UI and user interface components.
+
+- All UI work must be implemented using Streamlit
+- Do not use React, HTML/CSS, or other frontend frameworks for UI
+- Streamlit apps should be created in the backend directory or a dedicated streamlit directory
+- Use `uv add streamlit` to manage Streamlit dependency
+
+
+
